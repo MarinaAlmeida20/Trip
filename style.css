@@ -335,8 +335,9 @@
       justify-content: space-around;
       align-items: center;
   }
+}
   
-  @media(max-width: 480px){
+@media(max-width: 480px){
     body{
       height: calc(100vh - 55px);
     }
@@ -344,4 +345,4 @@
       width: 100%;
       text-align: center;
     }
-  }
+}
