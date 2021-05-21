@@ -18,8 +18,8 @@ The skills I have leaned from the project are:
 		
 
 ## Mobile behavior
-![enter image description here](https://github.com/MarinaAlmeida20/Trip/blob/main/assets/mobileTrip.gif?raw=true)
+![Mobile](https://github.com/MarinaAlmeida20/Trip/blob/main/assets/mobileTrip.gif?raw=true)
 
 ## Desktop behavior
-![enter image description here](https://github.com/MarinaAlmeida20/Trip/blob/main/assets/desktopTrip.gif?raw=true)
+![Desktop](https://github.com/MarinaAlmeida20/Trip/blob/main/assets/desktopTrip.gif?raw=true)
  
